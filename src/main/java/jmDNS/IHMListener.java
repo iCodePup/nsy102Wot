@@ -103,12 +103,7 @@ public class IHMListener implements ServiceListener {
     }
 
     @Override
-    public void serviceResolved(ServiceEvent event) {
-        ServiceInfo serviceInfo = event.getInfo();
-        String name = serviceInfo.getName(); // Filtered service name
-        int port = serviceInfo.getPort();
-        System.out.println("[IHMListener] Service resolved: " + port + "name" + name);
-    }
+    public void serviceResolved(ServiceEvent event) { }
 
     /**
      * Ce thread permet de faire une requete  HTTP pour obtenir le nom de la pièce

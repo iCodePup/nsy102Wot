@@ -1,6 +1,7 @@
 package jmDNS;
 
 import javax.jmdns.ServiceEvent;
+import javax.jmdns.ServiceInfo;
 import javax.jmdns.ServiceListener;
 
 /**
@@ -9,16 +10,19 @@ import javax.jmdns.ServiceListener;
 public class StringListener implements ServiceListener {
     @Override
     public void serviceAdded(ServiceEvent event) {
-        //System.out.println("[StringListener ]Objet connecté ajouté   : " + event.getName());
+        System.out.println("[StringListener ]Objet connecté ajouté   : " + event.getName());
     }
 
     @Override
     public void serviceRemoved(ServiceEvent event) {
-        //System.out.println("[StringListener ]Objet connecté supprimée   : " + event.getName());
+        System.out.println("[StringListener ]Objet connecté supprimée   : " + event.getName());
     }
 
     @Override
     public void serviceResolved(ServiceEvent event) {
-        //System.out.println("[StringListener] Service resolved: " + event.getInfo());
+        ServiceInfo serviceInfo = event.getInfo();
+        String name = serviceInfo.getName(); // Filtered service name
+        int port = serviceInfo.getPort();
+        System.out.println("[StringListener] Service resolved: " + event.getInfo()+ port + "name" + name);
     }
 }

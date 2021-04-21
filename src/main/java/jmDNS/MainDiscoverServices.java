@@ -20,7 +20,6 @@ public class MainDiscoverServices {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // boolean log = true;
 
         Logger logger = Logger.getLogger(JmDNS.class.getName());
         ConsoleHandler handler = new ConsoleHandler();
