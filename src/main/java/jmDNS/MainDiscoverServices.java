@@ -15,7 +15,6 @@ public class MainDiscoverServices {
 
     private static final String serviceDNS = "_webthing._tcp.local.";
 
-
     /**
      * @param args the command line arguments
      */
