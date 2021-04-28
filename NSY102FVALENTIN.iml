@@ -9,5 +9,12 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="+libs" level="project" />
     <orderEntry type="library" name="+libs" level="project" />
+    <orderEntry type="library" name="jmdns-3.5.5" level="project" />
+    <orderEntry type="library" name="json-20180813" level="project" />
+    <orderEntry type="library" name="nanohttpd-2.3.1" level="project" />
+    <orderEntry type="library" name="nanohttpd-nanolets-2.3.1" level="project" />
+    <orderEntry type="library" name="org.everit.json.schema-1.11.1" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.30" level="project" />
+    <orderEntry type="library" name="webthing-0.12.1" level="project" />
   </component>
 </module>
