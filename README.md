@@ -15,9 +15,9 @@
 
 ### Exécuter le jeu d'essai du projet :
 
-- Lancer la classe src/main/java/jmDNS/MainDiscoverServices
+- Lancer la classe jmDNS/MainDiscoverServices
 
-- Lancer la classe src/main/java/MainWoT
+- Lancer la classe MainWoT
 
 _Info DNS "webthing" dans le terminal :_
 
@@ -28,7 +28,7 @@ _Info DNS "webthing" dans le terminal :_
 ### Q1) Création grâce au patron composite d'une maison avec des pièces (cuisine, salle de bain..) avec des objets connectés WebOfThing dans chaques pièces. (1 objet = 1 serveur API WebOfThing)
 
 
-L'ensemble des classes constituantes du patron composite des objets WoT se trouvent dans le package src/main/java/CompositeWot
+L'ensemble des classes constituantes du patron composite des objets WoT se trouvent dans le package CompositeWot
 
 
 #### Patron Composite :
