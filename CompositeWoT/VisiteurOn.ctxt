@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=VisiteurOn
+comment0.text=\n\ NSY102-\ Fabien\ VALENTIN\n\ 2021/03\n\ D\u00E9marre\ les\ services\ WoT\n
+comment1.params=n
+comment1.target=java.lang.Boolean\ visite(Composant)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=n
+comment3.target=java.lang.Boolean\ visite(ListeDeComposants)
+numComments=4

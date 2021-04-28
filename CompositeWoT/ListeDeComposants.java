@@ -1,5 +1,6 @@
 package CompositeWoT;
 
+
 import org.mozilla.iot.webthing.WebThingServer;
 
 /**

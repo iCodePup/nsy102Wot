@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Visiteur
+comment0.text=\n\ NSY102-\ Fabien\ VALENTIN\n\ 2021/03\n
+comment1.params=n
+comment1.target=java.lang.Object\ visite(src.main.java.CompositeWoT.Composant)
+comment2.params=n
+comment2.target=java.lang.Object\ visite(ListeDeComposants)
+numComments=3

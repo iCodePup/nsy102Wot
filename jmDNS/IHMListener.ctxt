@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IHMListener
+comment1.params=jmdns
+comment1.target=IHMListener(javax.jmdns.JmDNS)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ serviceAdded(javax.jmdns.ServiceEvent)
+comment4.params=event
+comment4.target=void\ serviceRemoved(javax.jmdns.ServiceEvent)
+comment5.params=event
+comment5.target=void\ serviceResolved(javax.jmdns.ServiceEvent)
+numComments=6

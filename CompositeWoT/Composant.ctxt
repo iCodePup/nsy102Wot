@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Composant
+comment0.text=\n\ NSY102-\ Fabien\ VALENTIN\n\ 2021/03\n
+comment1.params=title
+comment1.target=Composant(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment3.params=
+comment3.target=int\ nombreDeIoT()
+comment4.params=visiteur
+comment4.target=java.lang.Object\ accepter(src.main.java.CompositeWoT.Visiteur)
+comment5.params=nom
+comment5.target=void\ setPieceMere(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getPiece()
+numComments=7

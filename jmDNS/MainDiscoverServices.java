@@ -38,7 +38,7 @@ public class MainDiscoverServices {
             }
             StringListener strListener = new StringListener();
             IHMListener ihmListener = new IHMListener(jmdns);
-            //jmdns.addServiceListener(serviceDNS, strListener);
+            jmdns.addServiceListener(serviceDNS, strListener);
             jmdns.addServiceListener(serviceDNS, ihmListener);
 
             JmDNS finalJmdns = jmdns;

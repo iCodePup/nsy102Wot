@@ -1,5 +1,4 @@
 package CompositeWoT;
-
 /**
  * NSY102- Fabien VALENTIN
  * 2021/03

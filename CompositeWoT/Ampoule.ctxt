@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ampoule
+comment0.text=\n\ NSY102-\ Fabien\ VALENTIN\n\ 2021/03\n
+comment1.params=title\ port
+comment1.target=Ampoule(java.lang.String,\ int)
+comment2.params=nom
+comment2.target=void\ setPieceMere(java.lang.String)
+comment3.params=
+comment3.target=int\ nombreDeIoT()
+comment4.params=visiteur
+comment4.target=java.lang.Object\ accepter(src.main.java.CompositeWoT.Visiteur)
+numComments=5

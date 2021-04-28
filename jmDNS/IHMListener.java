@@ -1,6 +1,5 @@
 package jmDNS;
 
-
 import jmDNS.ihm.ButtonColumn;
 import org.json.JSONObject;
 
